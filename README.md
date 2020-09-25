@@ -7,7 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-##CARA INSTALASI WAJIB DIBACA
+## CARA INSTALASI WAJIB DIBACA
+
 Download Project ini atau Clone
 Letakkan di htdocs untuk yang memakai xampp dan yang lain mengikuti
 Pastikan Laptop/PC anda sudah terinstall Composer
